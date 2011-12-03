@@ -1,6 +1,5 @@
 memish
-=====
-
+=======
 >_memish_ is a shell command-line tool to easily generate meme images
 
 #setup
