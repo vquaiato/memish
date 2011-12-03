@@ -28,6 +28,7 @@ the list of memes avaiable by now:
 + ducreux
 + raptor
 + interesting
++ mussum
 
 if you want more memes just forkit and send a pull request
 
