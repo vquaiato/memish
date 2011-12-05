@@ -18,6 +18,12 @@ then an image called _yuno.jpg_ will be generated with the inputed text, like th
 
 ![generated meme](https://github.com/vquaiato/memish/raw/master/yuno_sample.jpg "Y U NO generated meme")
 
+#uploading to twitpic
+if you want to automatically upload the generated meme to twitpic use the command like this:
+	./memish successkid "upload manually suck" "integrated twitpic" twitpic "twitter_user" "twitter_pass"
+
+(note it is how twitpic API works)
+
 #avaiable memes
 the list of memes avaiable by now:
 
