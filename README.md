@@ -36,6 +36,8 @@ the list of memes avaiable by now:
 + raptor
 + interesting
 + mussum
++ falone
++ serious
 
 if you want more memes just forkit and send a pull request
 
