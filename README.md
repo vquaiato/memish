@@ -38,6 +38,7 @@ the list of memes avaiable by now:
 + mussum
 + falone
 + serious
++ notbad
 
 if you want more memes just forkit and send a pull request
 
