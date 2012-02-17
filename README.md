@@ -25,7 +25,7 @@ if you want to automatically upload the generated meme to twitpic use the comman
 
 (note it is how twitpic API works)
 
-#avaiable memes
+#available memes
 the list of memes avaiable by now:
 
 + yuno
