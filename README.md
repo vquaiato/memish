@@ -23,7 +23,7 @@ if you want to automatically upload the generated meme to twitpic use the comman
 
 	./memish successkid "upload manually suck" "integrated twitpic" twitpic "twitter_user" "twitter_pass"
 
-(note it is how twitpic API works)
+(note this is how twitpic API works)
 
 #available memes
 the list of memes avaiable by now:
